@@ -1,5 +1,4 @@
 import DS from 'ember-data';
 
-export default DS.Model.extend({
-  name: 'a'
-});
+export default class A extends DS.Model {
+}
