@@ -1,4 +1,4 @@
 import A from './a';
 
-export default class B extends A {
+export default class B extends A.extend() {
 }
